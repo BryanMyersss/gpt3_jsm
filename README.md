@@ -1,5 +1,5 @@
 Port 3004
-home path /gpt3
+home path /gpt3app
 
 # Getting Started with Create React App
 
